@@ -1,0 +1,15 @@
+C:\Users\kevin\Desktop\Progemine\Nädal 5\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.exe
+C:\Users\kevin\Desktop\Progemine\Nädal 5\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.deps.json
+C:\Users\kevin\Desktop\Progemine\Nädal 5\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.runtimeconfig.json
+C:\Users\kevin\Desktop\Progemine\Nädal 5\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.runtimeconfig.dev.json
+C:\Users\kevin\Desktop\Progemine\Nädal 5\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 5\MoreLoops\ForLoopSum\bin\Debug\net5.0\ref\ForLoopSum.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 5\MoreLoops\ForLoopSum\bin\Debug\net5.0\ForLoopSum.pdb
+C:\Users\kevin\Desktop\Progemine\Nädal 5\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\Progemine\Nädal 5\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Progemine\Nädal 5\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Progemine\Nädal 5\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Progemine\Nädal 5\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 5\MoreLoops\ForLoopSum\obj\Debug\net5.0\ref\ForLoopSum.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 5\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.pdb
+C:\Users\kevin\Desktop\Progemine\Nädal 5\MoreLoops\ForLoopSum\obj\Debug\net5.0\ForLoopSum.genruntimeconfig.cache
